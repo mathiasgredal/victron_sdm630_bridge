@@ -1,0 +1,1 @@
+- Register the go program as a dbus em24 device, and return mock data
